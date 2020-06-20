@@ -1,6 +1,6 @@
 # awesome-allies
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-
+![Awesome-allies-logo](#)
 A list of resources for folks ready to join the path to anti-racism
 
 ## About
@@ -24,6 +24,8 @@ As we determine how to best fill this repository with resources, please take tim
 
 ## Featured
   - [pb-resources](http://www.pb-resources.com/) - A website built by [Alexis Williams(@alexisdenisew)](https://twitter.com/alexisdenisew) a black CS major at NYU who built this education and resource tool for folks to get engaged in the BlackLivesMatter movement.
+  - [tools for activism](https://github.com/drewrwilson/toolsforactivism) - Another awesome list that is dedicated to gathering tools for activist work.
+  - [awesome-diversity](https://github.com/folkswhocode/awesome-diversity) - Another awesome list that is focused on resources for making Tech more diverse. 
   
 ## History
 
