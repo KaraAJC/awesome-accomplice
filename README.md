@@ -1,5 +1,6 @@
 # awesome-allies
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
 A list of resources for folks ready to join the path to anti-racism
 
 ## About
@@ -10,9 +11,19 @@ We are in a time of civil uprising, and though it may feel new to some folks, th
 
 As we determine how to best fill this repository with resources, please take time to look at resources you have, confirm their source, get consent for them to be shared, and then connect here. I would love support determining how best to organize this resource in a way that is affirming to folks, and centers black voices, especially those who have been doing this work and are leading this work in their communities. 
 
-# Table Of Contents
+# Contents
+
+- [Featured](#featured)
+- [History](#history)
+- [Funding](#funding)
+- [Trans,Queer,LGBIA](#)
+- [Prison/Police Abolition](#)
+- [Business](#business)
+- [Interpersonal Communication](#interpersonal-communication)
+- [Local Community](#local-community)
+
 ## Featured
-  - [pb-resources](http://www.pb-resources.com/) | A website built by [Alexis Williams(@alexisdenisew)](https://twitter.com/alexisdenisew) a black CS major at NYU who built this education and resource tool for folks to get engaged in the BlackLivesMatter movement.
+  - [pb-resources](http://www.pb-resources.com/) - A website built by [Alexis Williams(@alexisdenisew)](https://twitter.com/alexisdenisew) a black CS major at NYU who built this education and resource tool for folks to get engaged in the BlackLivesMatter movement.
   
 ## History
 
