@@ -17,7 +17,7 @@ As we determine how to best fill this repository with resources, please take tim
 - [History](#history)
 - [Funding](#funding)
 - [Trans,Queer,LGBIA](#trans-queer-lgbia)
-- [Prison/Police Abolition](#prison-police-abolition)
+- [Prison/Police Abolition](#prisonpolice-abolition)
 - [Business](#business)
 - [Interpersonal Communication](#interpersonal-communication)
 - [Local Community](#local-community)
