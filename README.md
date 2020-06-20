@@ -1,6 +1,6 @@
-# awesome-allies
+# awesome-accomplice
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-![Awesome-allies-logo](#)
+![Awesome-accomplice-logo](#)
 A list of resources for folks ready to join the path to anti-racism
 
 ## About
