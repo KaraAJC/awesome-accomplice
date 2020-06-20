@@ -28,12 +28,15 @@ As we determine how to best fill this repository with resources, please take tim
   - [awesome-diversity](https://github.com/folkswhocode/awesome-diversity) - Another awesome list that is focused on resources for making Tech more diverse. 
   
 ## History
-
+  - [blackfacts.com](https://blackfacts.com/) - BlackFacts.com endeavors to become the premiere online repository of black culture both nationally and internationally.
+  
 ## Funding
 
 ## Trans, Queer, LGBIA
 
 ## Prison/Police Abolition
+  - [defund12](https://github.com/defund12/defund12.org) - Defund12.org provides shareable links to email the government officials in your community and demand action towards defunding police departments in favor of education, social services, and efforts towards dismantling racial injustice.
+  - [8toAbolition](https://www.8toabolition.com/) - A response to defunct/problematic CampaignZero's `#8cantwait` campaign, focused on a list of demands targeted toward city and municipal powers, to abolish police system, and instead, fund communities to thrive.
 
 ## Business
 
