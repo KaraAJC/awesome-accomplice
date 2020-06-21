@@ -32,6 +32,8 @@ As I determine how to best fill this repository with resources, please take time
 
 ## Featured
   - [pb-resources](http://www.pb-resources.com/) - A website built by [Alexis Williams(@alexisdenisew)](https://twitter.com/alexisdenisew) a black CS major at NYU who built this education and resource tool for folks to get engaged in the BlackLivesMatter movement.
+  - [Save The Tears: White Women's Guide](https://tatianamac.com/posts/save-the-tears) - A resource for White Women from the Guide to Sustainable Change series by Tatiana Mac.
+  - [White Guyde to the Galaxy](https://tatianamac.com/posts/white-guyde) - A resource for White Men from the Guide to Sustainable Change series by Tatiana Mac.
   - [tools for activism](https://github.com/drewrwilson/toolsforactivism) - Another awesome list that is dedicated to gathering tools for activist work.
   - [awesome-diversity](https://github.com/folkswhocode/awesome-diversity) - Another awesome list that is focused on resources for making Tech more diverse.
   - [Anti-Racism "action recipe" resource collection](https://www.jamisonclark.org/antiracism) - A collection of actionable activism guides or toolkits, aka action recipes, curated by Jamison Clark, creator of Updraft - The App for Activism.
@@ -61,6 +63,8 @@ As I determine how to best fill this repository with resources, please take time
   - [Resources for Racial Justice in Research/Design](http://tinyurl.com/UXRRR) - A resource compiled by [Theo Shure](https://www.linkedin.com/in/theo-shure/) around issues of / responsibility to racial justice, focused on the tech research/design field.
 
 ## Interpersonal Communication
+  - [Beware of Burnout: Sustainable strategies for activism](https://tatianamac.com/posts/beware-of-burnout) - A guide for non-black folks created by [Tatiana Mac](https://tatianamac.com/about) dedicated to folks who are committing to making systemic change.
+
 
 ## Local Community
 
