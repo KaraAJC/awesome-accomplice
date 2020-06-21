@@ -15,15 +15,15 @@ As I determine how to best fill this repository with resources, please take time
 
 - [Featured](#featured)
 - [FUBU](#fubu)
-- [History](#history) | "I want to learn"
-- [Funding](#funding) | "I want to give"
+- [History](#history) _"I want to learn"_
+- [Funding](#funding) _"I want to give"_
 - [Trans,Queer,LGBIA](#trans-queer-lgbia) 
 - [Prison/Police Abolition](#prisonpolice-abolition)
-- [Business](#business) | "I want to support businesses"
-- [Tech](#tech) | "I want to build/contribute"
-- [Business Practices](#business-practices) "I want to do better in my work"
-- [Interpersonal Communication](#interpersonal-communication) | "I want to grow & speak with friends/family"
-- [Local Community](#local-community) | "I want to engage with my local community"
+- [Business](#business) _"I want to support businesses"_
+- [Tech](#tech) _"I want to build/contribute"_
+- [Business Practices](#business-practices) _"I want to do better in my work"_
+- [Interpersonal Communication](#interpersonal-communication) _"I want to grow & speak with friends/family"_
+- [Local Community](#local-community) _"I want to engage with my local community"_
 - [To Listen](#to-listen)
 - [To Read](#to-read)
 - [To Watch](#to-watch)
@@ -47,15 +47,15 @@ As I determine how to best fill this repository with resources, please take time
 ## Prison/Police Abolition
   - [defund12](https://github.com/defund12/defund12.org) - Defund12.org provides shareable links to email the government officials in your community and demand action towards defunding police departments in favor of education, social services, and efforts towards dismantling racial injustice.
   - [8toAbolition](https://www.8toabolition.com/) - A response to defunct/problematic CampaignZero's `#8cantwait` campaign, focused on a list of demands targeted toward city and municipal powers, to abolish police system, and instead, fund communities to thrive.
-  - [PrisonCulture Blog](http://www.usprisonculture.com/blog/about/) Mariame Kaba's blog about the Prison Industrial Complex
+  - [PrisonCulture Blog](http://www.usprisonculture.com/blog/about/) Mariame Kaba's blog about the Prison Industrial Complex.
 
 ## Business
   - [Rebuild Black Business](https://www.rebuildblackbusiness.com/) - An open source project with over 14k black-owned businesses listed, and opportunities for allies to support them.
 
 ## Tech
   - [Data For Black Lives](http://d4bl.org/) - A movement of activists, organizers, and mathematicians committed to the mission of using data science to create concrete and measurable change in the lives of Black people.
-  - [Citizens Police Data Project](https://beta.cpdp.co/) - 
-  - [Self defined app](https://www.selfdefined.app/) - 
+  - [Citizens Police Data Project](https://beta.cpdp.co/) - A Data project by [Invisible Institute](https://invisible.institute/) that collects and publishes information about police misconduct in Chicago.
+  - [Self defined app](https://www.selfdefined.app/) - A resource around vocabulary, created by [Tatiana Mac](https://twitter.com/TatianaTMac), that seeks to provide more inclusive, holistic, and fluid definitions to reflect the diverse perspectives of the modern world. 
 
 ## Business practices
   - [Resources for Racial Justice in Research/Design](http://tinyurl.com/UXRRR) - A resource compiled by [Theo Shure](https://www.linkedin.com/in/theo-shure/) around issues of / responsibility to racial justice, focused on the tech research/design field.
@@ -69,7 +69,7 @@ As I determine how to best fill this repository with resources, please take time
   - [Invisible Institute](https://invisible.institute/) -  A journalism production company on the South Side of Chicago that works to enhance the capacity of citizens to hold public institutions accountable. Creator of [Citizens Police Data Project](https://invisible.institute/police-data).
   
 ## To Listen
-  - [CodeSwitch Podcast](https://www.npr.org/sections/codeswitch/) - An NPR podcast focused on Race and Identity
+  - [CodeSwitch Podcast](https://www.npr.org/sections/codeswitch/) - An NPR podcast focused on Race and Identity.
   
 ## To Read
   - [Racial Justice Bookshelf](https://www.racialjusticebookshelf.com/#/books) - A site to find and buy anti-racist books from Black-owned bookstores.
