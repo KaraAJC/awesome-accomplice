@@ -31,6 +31,7 @@ As I determine how to best fill this repository with resources, please take time
 
 
 ## Featured
+  - [Black Lives Matter Resource list](https://blacklivesmatter.carrd.co/) - A resource list being maintained by Afro-Latinx artist [nik](https://nikole.carrd.co/)
   - [pb-resources](http://www.pb-resources.com/) - A website built by [Alexis Williams(@alexisdenisew)](https://twitter.com/alexisdenisew) a black CS major at NYU who built this education and resource tool for folks to get engaged in the BlackLivesMatter movement.
   - [Save The Tears: White Women's Guide](https://tatianamac.com/posts/save-the-tears) - A resource for White Women from the Guide to Sustainable Change series by Tatiana Mac.
   - [White Guyde to the Galaxy](https://tatianamac.com/posts/white-guyde) - A resource for White Men from the Guide to Sustainable Change series by Tatiana Mac.
@@ -43,6 +44,7 @@ As I determine how to best fill this repository with resources, please take time
   - [blackfacts.com](https://blackfacts.com/) - BlackFacts.com endeavors to become the premiere online repository of black culture both nationally and internationally.
   
 ## Funding
+  - [List of places to donate](https://docs.google.com/spreadsheets/u/0/d/1p7QxOvtvRfHUoMWib8coGHSS8szENXzSjIZKpvp-gtA/htmlview#) - A list of organizations and community groups to donate to.
 
 ## Trans, Queer, LGBIA
 
