@@ -31,6 +31,7 @@ As I determine how to best fill this repository with resources, please take time
 
 
 ## Featured
+  - [Deconstruction: Anti-Racist Media & Action Guide ](https://deconstruction.club/) - An anti-racist media guide to help small groups have meaningful discussions and connect what they read/watch to concrete actions
   - [Black Lives Matter Resource list](https://blacklivesmatter.carrd.co/) - A resource list being maintained by Afro-Latinx artist [nik](https://nikole.carrd.co/)
   - [pb-resources](http://www.pb-resources.com/) - A website built by [Alexis Williams(@alexisdenisew)](https://twitter.com/alexisdenisew) a black CS major at NYU who built this education and resource tool for folks to get engaged in the BlackLivesMatter movement.
   - [Save The Tears: White Women's Guide](https://tatianamac.com/posts/save-the-tears) - A resource for White Women from the Guide to Sustainable Change series by Tatiana Mac.
