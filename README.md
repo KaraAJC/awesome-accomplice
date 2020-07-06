@@ -31,7 +31,7 @@ As I determine how to best fill this repository with resources, please take time
 
 
 ## Featured
-  - [OneAction.today Anti-racist newsletter](oneaction.today) - A newsletter dedicated to accountability and support by sharing one concrete, anti-racist action you can take each day—for example, a petition to sign or an email to send to a congressperson. Created by Lateesha Thomas, and Amy Wibowo.
+  - [OneAction.today Anti-racist newsletter](https://oneaction.today) - A newsletter dedicated to accountability and support by sharing one concrete, anti-racist action you can take each day—for example, a petition to sign or an email to send to a congressperson. Created by Lateesha Thomas, and Amy Wibowo.
   - [Deconstruction: Anti-Racist Media & Action Guide ](https://deconstruction.club/) - An anti-racist media guide to help small groups have meaningful discussions and connect what they read/watch to concrete actions, created by [Kara Gates](https://twitter.com/karagates)
   - [Black Lives Matter Resource list](https://blacklivesmatter.carrd.co/) - A resource list being maintained by Afro-Latinx artist [nik](https://nikole.carrd.co/)
   - [pb-resources](http://www.pb-resources.com/) - A website built by [Alexis Williams(@alexisdenisew)](https://twitter.com/alexisdenisew) a black CS major at NYU who built this education and resource tool for folks to get engaged in the BlackLivesMatter movement.
