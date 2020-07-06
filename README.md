@@ -31,15 +31,13 @@ As I determine how to best fill this repository with resources, please take time
 
 
 ## Featured
+  - [OneAction.today Anti-racist newsletter](oneaction.today) - A newsletter dedicated to accountability and support by sharing one concrete, anti-racist action you can take each day—for example, a petition to sign or an email to send to a congressperson. Created by Lateesha Thomas, and Amy Wibowo.
   - [Deconstruction: Anti-Racist Media & Action Guide ](https://deconstruction.club/) - An anti-racist media guide to help small groups have meaningful discussions and connect what they read/watch to concrete actions, created by [Kara Gates](https://twitter.com/karagates)
   - [Black Lives Matter Resource list](https://blacklivesmatter.carrd.co/) - A resource list being maintained by Afro-Latinx artist [nik](https://nikole.carrd.co/)
   - [pb-resources](http://www.pb-resources.com/) - A website built by [Alexis Williams(@alexisdenisew)](https://twitter.com/alexisdenisew) a black CS major at NYU who built this education and resource tool for folks to get engaged in the BlackLivesMatter movement.
-  - [Save The Tears: White Women's Guide](https://tatianamac.com/posts/save-the-tears) - A resource for White Women from the Guide to Sustainable Change series by Tatiana Mac.
-  - [White Guyde to the Galaxy](https://tatianamac.com/posts/white-guyde) - A resource for White Men from the Guide to Sustainable Change series by Tatiana Mac.
   - [tools for activism](https://github.com/drewrwilson/toolsforactivism) - Another awesome list that is dedicated to gathering tools for activist work.
   - [awesome-diversity](https://github.com/folkswhocode/awesome-diversity) - Another awesome list that is focused on resources for making Tech more diverse.
-  - [Anti-Racism "action recipe" resource collection](https://www.jamisonclark.org/antiracism) - A collection of actionable activism guides or toolkits, aka action recipes, curated by Jamison Clark, creator of Updraft - The App for Activism.
-  - [#ActionRecipe Hashtag on Instagram](https://www.instagram.com/explore/tags/actionrecipe/) - A list of over 500 `#actionRecipe` posts on instagram.
+  
   
 ## History
   - [blackfacts.com](https://blackfacts.com/) - BlackFacts.com endeavors to become the premiere online repository of black culture both nationally and internationally.
@@ -74,15 +72,23 @@ As I determine how to best fill this repository with resources, please take time
 ### Chicago
   - [Local Community orgs to support/fund](https://www.instagram.com/p/CA_ZRu9BOPh/?igshid=ght7ows3lrj1) - A thread of photos listing Local Chicago organizations to fund, as Chicago Community Bond Fund has met it's financial goals.
   - [Invisible Institute](https://invisible.institute/) -  A journalism production company on the South Side of Chicago that works to enhance the capacity of citizens to hold public institutions accountable. Creator of [Citizens Police Data Project](https://invisible.institute/police-data).
+  - [Statement from LGBTQ Community Members Regarding CPD Forum](https://docs.google.com/document/d/1UrtZNv2kKxP3sDbrIrNoPNF-ZUH8gMChnEXyYBvM64c/edit) - A statement from members of the trans and queer community of Chicago on the recent forum with CPD superintendent Brown, and why we demand the immediate defunding of CPD.
   
 ## To Listen
   - [CodeSwitch Podcast](https://www.npr.org/sections/codeswitch/) - An NPR podcast focused on Race and Identity.
   
 ## To Read
   - [Racial Justice Bookshelf](https://www.racialjusticebookshelf.com/#/books) - A site to find and buy anti-racist books from Black-owned bookstores.
+  - [Anti-Racism "action recipe" resource collection](https://www.jamisonclark.org/antiracism) - A collection of actionable activism guides or toolkits, aka action recipes, curated by Jamison Clark, creator of Updraft - The App for Activism.
+  - [White Guyde to the Galaxy](https://tatianamac.com/posts/white-guyde) - A resource for White Men from the Guide to Sustainable Change series by Tatiana Mac.
+  - [Save The Tears: White Women's Guide](https://tatianamac.com/posts/save-the-tears) - A resource for White Women from the Guide to Sustainable Change series by Tatiana Mac.
 
 ## To Watch
+  - [Disclosure](https://www.netflix.com/title/81284247) - A documentary where leading trans creatives and thinkers share heartfelt perspectives and analysis about Hollywood's impact on the trans community.
+  - [What Happened, Miss Simone?](https://www.netflix.com/title/70308063) - A documentary on the life of Nina Simone
 
 ## To Follow
+  - [#ActionRecipe Hashtag on Instagram](https://www.instagram.com/explore/tags/actionrecipe/) - A list of over 500 `#actionRecipe` posts on instagram.
+
 
 ## FUBU
