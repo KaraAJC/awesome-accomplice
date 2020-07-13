@@ -88,7 +88,7 @@ As I determine how to best fill this repository with resources, please take time
   - [What Happened, Miss Simone?](https://www.netflix.com/title/70308063) - A documentary on the life of Nina Simone
 
 ## To Follow
-  - [#ActionRecipe Hashtag on Instagram](https://www.instagram.com/explore/tags/actionrecipe/) - A list of over 500 `#actionRecipe` posts on instagram.
+  - [#ActionRecipe Hashtag on Instagram](https://www.instagram.com/explore/tags/actionrecipe/) - A list of over 500 `#actionRecipe` posts on instagram, term coined by [Abigail Jamison clark](https://abigailjamisonclark.com/antiracism) for Updraft, an app for activism.
 
 
 ## FUBU
